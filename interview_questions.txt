@@ -1,0 +1,64 @@
+ Common Pointer Interview Questions
+--------------------------ARRAYS---------------------------------------
+How is memory allocated for an array in C++?
+What is the difference between an array and a pointer?
+How do you find the largest or smallest element in an array?
+What are the advantages and disadvantages of using arrays?
+What is the difference between a static and dynamic array?
+How do you reverse an array without using an extra array?
+What is a multidimensional array?
+How do you pass an array to a function?
+How do you search for an element in an array?
+What is the difference between a vector and an array?
+-----------------------------POINTER----------------------------------
+What is a pointer in C++?
+How do you declare and initialize a pointer?
+What is pointer arithmetic?
+What is a null pointer?
+What is a dangling pointer?
+What is the difference between a pointer and a reference?
+What are wild pointers?
+What is a function pointer?
+What is the difference between pointer and array?
+How do you pass a pointer to a function?
+----------------------FUNCTIONS-----------------------------------
+Interview Questions for 4+ Years Experience
+What are functions in C++ and why are they used?
+What is function overloading? Explain with an example.
+How does default argument work in functions?
+Explain the difference between Call by Value and Call by Reference.
+Can a function return multiple values in C++? How?
+What is the difference between built-in and user-defined functions?
+What is inline function?
+How does recursion work in C++ functions?
+What are lambda functions in C++?
+What is the difference between passing pointers vs passing references to a function?
+----------------------STRUCT--------------------------------------
+What is a struct in C++ and how is it different from a class?
+Can a struct have member functions?
+How do you pass a struct to a function?
+Explain the difference between struct and union.
+Can a struct contain pointers? Give an example.
+How do you use struct with dynamic memory allocation?
+What is the use of typedef and struct together?
+How does struct alignment affect memory in C++?
+What are nested structures and how are they useful?
+Can you inherit from a struct in C++?
+----------------------Union--------------------------------------
+Basic Questions
+1️⃣ What is a union in C++? How is it different from a struct?
+2️⃣ Why does a union only store one value at a time?
+3️⃣ What are the advantages and disadvantages of using unions?
+4️⃣ How does memory allocation work in a union?
+
+🛠 Advanced Questions
+5️⃣ If a union has an int, float, and char, which member will occupy the most space?
+6️⃣ How does type punning work with unions? (Hint: Overlapping memory usage)
+7️⃣ How can you use an enum with a union to track the active member?
+8️⃣ Can a union have constructors and destructors?
+9️⃣ How can a union be used in real-world applications like embedded systems?
+ What will happen if we access a member of a union that was not assigned a value? (Undefined behavior)
+
+
+
+
